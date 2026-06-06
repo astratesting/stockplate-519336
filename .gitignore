@@ -13,3 +13,22 @@ dist/
 # Misc
 .DS_Store
 *.log
+
+# Next.js
+out/
+build/
+coverage/
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea
+.vscode
